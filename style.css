@@ -1,0 +1,246 @@
+ *{
+    font-family: lato;
+    margin: 0;
+    padding: 0;
+ }
+ .wrapper{
+    width: 85%;
+    margin-left: 100px;
+ }
+ .logi{
+    display: inline-flex;
+    align-items: center;
+    
+ }
+ .logo-text{
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 5px;
+ }
+ .header{
+    margin: 20px 0;
+ }
+ .main-title{
+    text-transform: uppercase;
+    color: white;
+    font-size: 110px;
+    border-bottom: 2px solid #00a8fd;
+ }
+ .wrapper2{
+    background-image: url("./back.jpg");
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+ }
+ .main-content{
+    width: 800px;
+    text-align: center;
+ }
+ .ris{
+    color: #223650;
+ }
+ .text{
+    text-transform: uppercase;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+ }
+ .button{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    border: 1px solid #00a8fd;
+    padding: 10px 10px;
+    font-size: 30px;
+ }
+ .wrapper3{
+    width: 100%;
+    background-color: gainsboro;
+    height: 250px;
+    padding-bottom: 100px;
+ }
+ .lorem{
+    padding-top: 90px;
+    height: 250px;
+ }
+ .h2{
+    text-transform: uppercase;
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 15px;
+ }
+ .p1{
+    text-transform: uppercase;
+ }
+ .wrapper4{
+    width: 100%;
+    height: 300px;
+ }
+ .ikon1{
+    width: 300px;
+    height: auto;
+    display: inline-block;
+ }
+ .facebook{
+    padding-left: 100px;
+    padding-bottom: 10px;
+ }
+ .prise{
+    text-transform: uppercase;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+ }
+ .html{
+    text-transform: uppercase;
+    text-align: center;
+
+ }
+ .ikon2{
+    width: 300px;
+    height: auto;
+    display: inline-block;
+ }
+ .twitter{
+    padding-left: 100px;
+    padding-bottom: 10px;
+ }
+ .prise2{
+    text-transform: uppercase;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+ }
+ .html2{
+    text-transform: uppercase;
+    text-align: center;
+ }
+ .ikon3{
+    width: 300px;
+    height: auto;
+    display: inline-block;
+ }
+ .twitter{
+    padding-left: 100px;
+    padding-bottom: 10px;
+ }
+ .prise3{
+    text-transform: uppercase;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+ }
+ .html3{
+    text-transform: uppercase;
+    text-align: center;
+ }
+ .flex{
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+ .wrapper5{
+    background-color: gainsboro;
+    height: auto;
+    width: 100%;
+    padding-top: 10px;
+ }
+ .h{
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+ }
+ .small{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 15px;
+ }
+ .img1{
+    height: 200px;
+    padding-left: 480px;
+ }
+ .head{
+    padding-bottom: 20px;
+ }
+ .img2{
+    height: 200px;
+    padding-left: 8px;
+ }
+ .img3{
+    height: 200px;
+    padding-left: 510px;
+ }
+ .img4{
+    height: 200px;
+    padding-left: 20px;
+    
+ }
+ .galery1{
+    padding-bottom: 20px;
+ }
+ .galery2{
+    padding-bottom: 100px;
+ }
+ .wrapper6{
+   width: 100%;
+   height: 700px;
+   background-image: url(./background.jpg);
+   opacity: 0.3;
+   background-size: cover;
+ }
+ .textbox{
+   text-transform: uppercase;
+   text-align: center;
+   padding-bottom: 5px;
+   padding-top: 30px;
+ }
+ .span10{
+   text-transform: uppercase;
+   text-align: center;
+   display: block;
+   padding-bottom: 40px;
+ }
+ .input-area{
+   text-align: center;
+   padding-bottom: 10px;
+ }
+ .input1{
+   font-size: 20px;
+   height: auto;
+   padding: 5px 0px;
+   width: 400px;
+   border-radius: 3px;
+ }
+ .input2{
+   font-size: 20px;
+   height: auto;
+   width: 400px;
+   padding-bottom: 150px;
+   padding-left: 5px;
+   padding-top: 5px;
+   border-radius: 3px;
+ }
+ .input-area2{
+   text-align: center;
+ }
+ .button10{
+   border: 2px solid #00a8fd;
+   text-decoration: none;
+   padding: 10px 30px;
+   margin-left: 1100px;
+   position: relative;
+   top: 20px;
+   right: 43px;
+   color: white;
+ }
+ 
+ 
